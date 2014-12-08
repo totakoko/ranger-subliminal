@@ -28,7 +28,7 @@ class sub(Command):
         
         original_path = cwd.path
         files = self.fm.thistab.get_selection()
-        languages = self.args
+        languages = self.args[:1]
         if not languages:
             languages = ['en']
 
