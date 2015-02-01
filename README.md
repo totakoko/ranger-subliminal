@@ -1,10 +1,10 @@
 # ranger-subliminal
 
-Adds a new [ranger](https://github.com/hut/ranger) command for [submiminal](https://github.com/Diaoul/subliminal)
+Adds a new [ranger](https://github.com/hut/ranger) command for [subliminal](https://github.com/Diaoul/subliminal)
 
 ## Installation
 
-* First install [ranger](https://github.com/hut/ranger) and [submiminal](https://github.com/Diaoul/subliminal).
+* First install [ranger](https://github.com/hut/ranger) and [subliminal](https://github.com/Diaoul/subliminal).
 * Then get ranger-subliminal :
 ```
 git clone https://github.com/totakoko/ranger-subliminal.git ~/.ranger-subliminal
